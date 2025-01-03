@@ -19,7 +19,7 @@ public class MyCalc {
 	}
 	public void show()
 	{
-		System.out.println("Hello Jenkis");
+		System.out.println("Hello Jenkis! This is Demo");
 	}
 
 	public static void main(String[] args) {
